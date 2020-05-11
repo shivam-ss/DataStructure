@@ -32,6 +32,7 @@ public class BinaryTree {  // we will create object of this as it will be our bi
     BinaryTree(){             //default constructor
         root=null;  
     }
+    // writing a fucntion to print the binary tree
 }
 
 class test3{
