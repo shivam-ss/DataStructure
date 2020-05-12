@@ -7,7 +7,7 @@ package datastructure;
 
 /**
  *
- * @author shiva
+ * @author shivam
  */
 /// creating a class named Node
  class Node{
