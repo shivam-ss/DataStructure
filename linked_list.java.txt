@@ -1,0 +1,8 @@
+import java.util.*;
+
+class Node{
+Node key;
+Node ptr;
+}
+public class linkedlist{
+ int key
