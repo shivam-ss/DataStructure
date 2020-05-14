@@ -19,6 +19,10 @@ package datastructure;
         right=null;
         left=null;
     }
+
+    Node(int i) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
     
 }
 public class BinaryTree {  // we will create object of this as it will be our binary tree
