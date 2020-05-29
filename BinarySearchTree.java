@@ -12,22 +12,22 @@ package datastructure;
 public class BinarySearchTree {
     
     
-    Node root; 
+     
     //class node inside BST class
     class Node{
         int key;
         Node left;
         Node right;
     
-        public Node(int key){
-            key=key;
+        public Node(int item){
+            key=item;
             left=null;
             right=null;
         }
     }
         
         //creating root of BST:
-    
+    Node root;
             BinarySearchTree(){
             root=null; //
               }
@@ -57,7 +57,7 @@ public class BinarySearchTree {
             
         }
         void inorderRecord(Node root){
-            if(root!=null){
+            if(root !=null){
                 inorderRecord(root.left);
                 System.out.println(root.key);
                 inorderRecord(root.right);
