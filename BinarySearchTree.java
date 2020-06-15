@@ -81,7 +81,7 @@ public class BinarySearchTree {
             obj.insert(200);
             obj.insert(2);
             obj.insert(99);
-            
+            obj.insert(100);
             
             obj.inorder();
         }
