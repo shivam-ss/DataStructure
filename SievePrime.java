@@ -9,6 +9,7 @@ import java.util.*;
 /**
  *
  * @author shivam
+Part 1: successfully implemented
  */
 
 //in sieve of eratosthenes method, strat from 2, mark all multiples of 2, then move to next unmarked element and so on; mark elements which are greater than
