@@ -7,7 +7,7 @@ package datastructure;
 
 /**
  *
- * @author shiva
+ * @author shivam
  */
 import java.util.*;
 public class D2B {
