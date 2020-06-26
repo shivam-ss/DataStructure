@@ -16,7 +16,7 @@ public class matrix_2D {
         int col=2;
         int[][] m1= new int[row][col];
         int[][] m2=new int[row][col];
-        
+        //try to modify it using some data structure to reduce complexity
         for(int i=0;i<row;i++){
             for(int j=0;j<col;j++){
                 System.out.println("Enter element of matrix M1: ");
